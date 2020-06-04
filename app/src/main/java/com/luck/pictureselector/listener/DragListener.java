@@ -16,7 +16,6 @@ public interface DragListener {
     /**
      * 是否于拖拽状态
      *
-     * @param start
      */
     void dragState(boolean isStart);
 }
